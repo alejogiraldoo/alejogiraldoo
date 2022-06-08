@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 Welcome to My self *Profile*! :D 
 
-<!--
-**alejogiraldoo/alejogiraldoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦈 Hello I´m Alejandro, I like learn new tecnologies and all about the world, WELL... many call me crazy for my eagerness to learn more and more, in this place I am going to show you some litle personal projects 🤖
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on news projects
+- 🤔 I’m looking for help with Web development and --> BACKEND
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: alejandrogiraldo1404@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I also like artificial intelligence and electronics
+
+<img width="700" align="center" alt="descriptive-image" src="https://www.trazos-web.com/wp-content/uploads/2020/03/los-40-mejores-blogs-sobre-diseno-y-desarrollo-web-en-espanol-1024x384.jpg">
