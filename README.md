@@ -10,7 +10,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also like artificial intelligence and electronics
 
-<img width="700" align="center" alt="descriptive-image" src="https://www.trazos-web.com/wp-content/uploads/2020/03/los-40-mejores-blogs-sobre-diseno-y-desarrollo-web-en-espanol-1024x384.jpg">
-
 #### **Hot Links** 🤭
 - 📞 https://www.linkedin.com/in/alejandro-giraldo-ocampo-30a825233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAiRL0gGASsOqWb2k598szA%3D%3D
