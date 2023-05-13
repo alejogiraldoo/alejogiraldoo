@@ -1,5 +1,5 @@
 ## 👋 Welcome to my self *profile*! :D 
-🦈 Hello, my name is Alejandro.I like learn new technologies to create better solutions and improve my knowledge, because learning never stops.In this place, I am going to show you some [Personal Projects](https://github.com/alejogiraldoo?tab=repositories "Personal Projects") 🤖
+🦈 Hello, my name is Alejandro.I like to learn new technologies to create better solutions and improve my knowledge, because learning never stops.In this place, I am going to show you some [Personal Projects](https://github.com/alejogiraldoo?tab=repositories "Personal Projects") 🤖
 
 - 🌱 I'm currently learning Javascript
 - 👯 I'm looking to collaborate on new projects
